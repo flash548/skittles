@@ -1,0 +1,19 @@
+.fc table, .fc-listWeek-view {
+  --fc-border-color: var(--colorTertiary);
+  --fc-neutral-bg-color: var(--colorTertiary);
+  --fc-list-event-hover-bg-color: var(--colorSecondary);
+}
+
+
+.fc-daygrid-event-dot {
+  border-color: var(--statusDarkSerious) !important;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.toast-close {
+  color: var(--colorBlack);
+}
+

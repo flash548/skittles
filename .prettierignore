@@ -1,0 +1,7 @@
+/src/api
+/src/assets
+/.nyc_output/
+*.swp
+*.png
+*.svg
+*.snap

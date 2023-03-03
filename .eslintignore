@@ -1,0 +1,4 @@
+cypress/**/*.ts
+src/serviceWorker.ts
+src/api/*.ts
+*.test.*
